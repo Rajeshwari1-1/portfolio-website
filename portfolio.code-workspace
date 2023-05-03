@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../githhub/Day 1"
+		},
+		{
+			"path": "../../../Jonas JS/complete-javascript-course-master/01-Fundamentals-Part-1/final"
+		},
+		{
+			"path": "../../../Jonas JS/complete-javascript-course-master/01-Fundamentals-Part-1/starter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "starter"
+	}
+}
